@@ -18,7 +18,8 @@ loginButton.addEventListener("click",function(e){
     if(password == "12"){
         console.log("Zhi Yi");
         // window.location.href = "http://caiwen12.com/homepage.html";
-        window.location.href = "http://127.0.0.1:5500/home.html";
+       // window.location.href = "http://127.0.0.1:5500/home.html";
+       window.location.href = "./home.html";
     }
 
 })
